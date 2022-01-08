@@ -28,7 +28,6 @@ Eel==0.12.4
 entrypoints==0.3
 et-xmlfile==1.0.1
 feedparser==6.0.2
-Fiona @ file:///C:/Software/python36/Scripts/Fiona-1.8.18-cp36-cp36m-win_amd64.whl
 future==0.18.2
 GDAL==3.1.2
 geojson==2.5.0
@@ -63,7 +62,6 @@ jupyter-core==4.6.3
 kiwisolver==1.2.0
 laspy==1.5.0
 lazy-object-proxy==1.4.3
-libLAS @ file:///C:/Software/python36/Scripts/libLAS-1.8.1-cp36-cp36m-win_amd64.whl
 lxml==4.7.1
 MarkupSafe==1.1.1
 matplotlib==3.3.2
@@ -113,7 +111,6 @@ pyzmq==19.0.2
 requests==2.24.0
 requests-oauthlib==1.3.0
 rsa==4.7.2
-Rtree @ file:///C:/Software/python36/Scripts/Rtree-0.9.7-cp36-cp36m-win_amd64.whl
 scikit-image==0.17.2
 scikit-learn==0.23.2
 scipy==1.5.4
